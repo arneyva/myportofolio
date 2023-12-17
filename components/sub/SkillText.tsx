@@ -29,6 +29,7 @@ const SkillText = () => {
             Never miss a task, deadline or idea
         </motion.div>
     </div>
+    // nambah commit
   )
 }
 
